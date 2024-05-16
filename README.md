@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# AnimationBuddy
-Project56
-=======
-# buddy_animation
 
+# SocialBuddy Project56
+=======
+# buddy flic
 
 
 ## Getting Started
